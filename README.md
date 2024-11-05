@@ -11,6 +11,11 @@ I am currently studying a technical degree in Artificial Intelligence while also
 - Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 📫 Reach out to me at: <a href="juanmora0341@gmail.com">juanmora0341@gmail.com</a>
 
+
+
+
+
+
 ## My Skills Include
 
 <h4> Languages </h4>
