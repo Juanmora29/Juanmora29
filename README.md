@@ -16,7 +16,7 @@ I am currently studying a technical degree in Artificial Intelligence while also
 
 
 
-## My Skills Include
+ My Skills Include
 
 <h4> Languages </h4>
 <span> 
