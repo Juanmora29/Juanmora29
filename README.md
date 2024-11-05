@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi , I'm Juan Morales </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlvNXc3MHYzejc1cGUxMm9mM3R1eHA3cnFzajJjaWowOGRoMTh4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" />
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlvNXc3MHYzejc1cGUxMm9mM3R1eHA3cnFzajJjaWowOGRoMTh4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" width="30px">&nbsp;***About me***
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk3ZTJ1cWhnb2pzc2hra2ltam54Njg4ZGtxMW50dHYzbDJvdWJybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M0CrQ30WIkzDQGollw/giphy.webp" width="30px">&nbsp;***About me***
 
-I am currently pursuing a technical degree in Artificial Intelligence while also studying Biochemistry as part of my undergraduate education. I'm passionate about learning and always eager to explore and engage with the latest tools and technologies.
+I am currently studying a technical degree in Artificial Intelligence while also studying Biochemistry as part of my undergraduate education. I'm passionate about learning and always eager to explore and engage with the latest tools and technologies.
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
